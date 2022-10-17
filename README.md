@@ -3,8 +3,6 @@
 # 👋 Hi, I’m @MichaelMcNeil
 
 [![email](https://img.shields.io/badge/email%20me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:michaelmcneil.vt@gmail.com)
-[![ig](https://img.shields.io/badge/dm%20me-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=white)](www.instagram.com/miiichaelcurtis)
-[![strava](https://img.shields.io/badge/catch%20me-%23D14836.svg?&style=for-the-badge&logo=strava&logoColor=white)](https://www.strava.com/athletes/30648228)
 
 ## 👨‍💻 About me
 
@@ -23,6 +21,7 @@
   ![react](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
   ![react native](https://img.shields.io/badge/-React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=white)
   ![react native](https://img.shields.io/badge/-Redux-61DAFB?style=for-the-badge&logo=redux&logoColor=white)
+  ![express](https://img.shields.io/badge/-Express-61DAFB?style=for-the-badge&logo=express&logoColor=white)
   ![expo](https://img.shields.io/badge/-Expo-61DAFB?style=for-the-badge&logo=expo&logoColor=white)
 
  ![c#](https://img.shields.io/badge/-C%23-green?style=for-the-badge&logo=csharp&logoColor=white)
@@ -41,6 +40,9 @@
 
  ![ubuntu](https://img.shields.io/badge/-Ubuntu-pink?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![wsl](https://img.shields.io/badge/-wsl%202-pink?style=for-the-badge&logo=WindowsTerminal&logoColor=white)
+  ![docker](https://img.shields.io/badge/-docker-pink?style=for-the-badge&logo=docker&logoColor=white)
+  ![azurecontainers](https://img.shields.io/badge/-Azure%20Containers-pink?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
 
   ![vscode](https://img.shields.io/badge/-vs%20code-gray?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
