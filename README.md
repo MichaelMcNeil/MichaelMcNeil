@@ -2,7 +2,7 @@
 
 # 👋 Hi, I’m Michael
 
-[![email](https://img.shields.io/badge/email%20me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:michaelmcneil.vt@gmail.com)
+[![email](https://img.shields.io/badge/email%20me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:soft.gift9562@fastmail.com)
 
 ## 👨‍💻 About me
 
