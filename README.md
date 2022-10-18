@@ -1,20 +1,22 @@
 ![Header](header.jpg "Header")
 
-# 👋 Hi, I’m @MichaelMcNeil
+# 👋 Hi, I’m Michael
 
 [![email](https://img.shields.io/badge/email%20me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:michaelmcneil.vt@gmail.com)
 
 ## 👨‍💻 About me
 
 - 2x Ironman 🏊🚴‍♂️🏃‍♂️ Chattanooga '21 & Lake Placid '22
-- Father of 2
+- Husband and Father of 2
 - Writing code is relaxing
-- Love JavaScript, learning to love Python
-- 👀 Data science really peaks my interest
-- 🌱 I’m currently (re)learning c++
-- I've worked in software and IT. Find joy in both.
+- 🤓 Amazed at how JavaScript has developed over the years
+- 👀 Currently - refreshing my python skillset to explore the data science toolkits
+- 🌱 Also working through C++ after 15 years - end goal - to write a native .fit generator for node.js
+- I spent 4 years as an IT Director for a very large church - wonderful experience - found a second passion for the hands-on side of technology
+- Other hobbies: the 🧙 Lord of the Rings novels, ancient languages - !עִבְרִית מַדְהִים 📜
 
 ## 🛠️Tech Stack
+Most of these skills I am comfortable enough to just sit down and work - some of them I really love ❤️
 
   ![javascript](https://img.shields.io/badge/-JavaScript-61DAFB?style=for-the-badge&logo=javascript&logoColor=white)
   ![node.js](https://img.shields.io/badge/-node.js-61DAFB?style=for-the-badge&logo=node.js&logoColor=white)
@@ -51,3 +53,4 @@
 
  
 
+ 
