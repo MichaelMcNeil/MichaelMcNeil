@@ -9,7 +9,7 @@
 - 2x Ironman 🏊🚴‍♂️🏃‍♂️ Chattanooga '21 & Lake Placid '22
 - Husband and Father of 2
 - Writing code is relaxing
-- 🤓 Amazed at how JavaScript has developed over the years
+- 🤓 Affinity for JavaScript
 - 👀 Currently - refreshing my python skillset to explore the data science toolkits
 - 🌱 Also working through C++ after 15 years - end goal - to write a native .fit generator for node.js
 - I spent 4 years as an IT Director for a very large church - wonderful experience - found a second passion for the hands-on side of technology
