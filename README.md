@@ -8,7 +8,6 @@
 
 - 2x Ironman 🏊🚴‍♂️🏃‍♂️ Chattanooga '21 & Lake Placid '22
 - Husband and Father of 2
-- Writing code is relaxing
 - 🤓 Lots of history with JavaScript - check out [dfit](https://github.com/MichaelMcNeil/dfit), a module I created for a fitness application to deal with paces, distances, and time.
 - Other hobbies: the 🧙 Lord of the Rings novels, ancient languages - !עִבְרִית מַדְהִים 📜
 
